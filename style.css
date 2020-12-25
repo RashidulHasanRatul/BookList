@@ -1,0 +1,29 @@
+
+#Book{
+    color:#f9ca24 ;
+}
+
+.fas   {
+    color:#eb4d4b ;
+    font-size: 30px;
+}
+.far  {
+    color:#eb4d4b ;
+    font-size: 30px;
+}
+
+#tittle {
+    
+    
+    box-shadow: 5px 5px 5px #c7ecee;
+}
+#author {
+    
+    
+    box-shadow: 5px 5px 5px #c7ecee;;
+}
+#year {
+    
+    
+    box-shadow: 5px 5px 5px #c7ecee;
+}
